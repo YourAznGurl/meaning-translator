@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meaning-Based AI Translator</title>
+    <link id="themeStylesheet" rel="stylesheet" href="styles/minimal.css">
+</head>
+<body>
+    <h1>Meaning-Based AI Translator</h1>
+
+    <label>Theme:</label>
+    <select id="themeSelector">
+        <option value="minimal">Minimal</option>
+        <option value="mobile">Mobile</option>
+        <option value="dark">Dark</option>
+        <option value="pastel">Pastel</option>
+    </select>
+
+    <br><br>
+
+    <label>From:</label>
+    <select id="sourceLang">
+        <option>English</option>
+        <option>Japanese</option>
+        <option>Spanish</option>
+        <option>Korean</option>
+        <option>Chinese</option>
+        <option>French</option>
+        <option>German</option>
+        <option>auto</option>
+    </select>
+
+    <label>To:</label>
+    <select id="targetLang">
+        <option>Japanese</option>
+        <option>English</option>
+        <option>Spanish</option>
+        <option>Korean</option>
+        <option>Chinese</option>
+        <option>French</option>
+        <option>German</option>
+    </select>
+
+    <textarea id="inputText" placeholder="Type slang, metaphor, or any sentence..."></textarea>
+
+    <button onclick="translateText()">Translate Meaning</button>
+
+    <p style="font-size: 12px; color: #999; margin-top: 8px;">
+Translations may take a few seconds and can occasionally be inaccurate.  
+Retry if needed.
+</p>
+
+    <div id="output"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
