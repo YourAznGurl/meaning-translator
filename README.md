@@ -9,12 +9,12 @@ This project is licensed under the Creative Commons Attribution–NonCommercial 
 
 You are free to:
 - Use this project for personal and educational purposes  
-• Share it with others  
-• Remix, adapt, and build upon it  
+- Share it with others  
+- Remix, adapt, and build upon it  
 
 Under the following terms:
-• Attribution — You must give appropriate credit to the creator  
-• NonCommercial — You may not use this project for commercial purposes  
+- Attribution — You must give appropriate credit to the creator  
+- NonCommercial — You may not use this project for commercial purposes  
 
 No additional restrictions — You may not apply legal or technological measures that restrict others from doing anything the license permits.
 
