@@ -22,4 +22,4 @@ Under the following terms:
 
 No additional restrictions — You may not apply legal or technological measures that restrict others from doing anything the license permits.
 
-© 2026 Ena Tarumi. All rights reserved.
+© 2026 Ena Tarumi. All rights reserved
