@@ -1,4 +1,4 @@
-# 📘 INSTRUCTIONS.md  
+# 📘 INSTRUCTIONS
 ## Meaning‑Based AI Translator — Setup & Usage Guide
 
 This guide explains exactly how to install, run, and use the Meaning‑Based AI Translator.  
